@@ -1,6 +1,6 @@
 ###PSEUDOCODE 
 
-###Inport sensor data + True/False data
+###Import sensor data + True/False data
 ###Partition data into train, validation, test
 
 from tpfpclassifier import classifier, trainclassifier
